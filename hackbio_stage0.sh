@@ -102,4 +102,15 @@ conda install -c bioconda fastp
 # install multiqc
 conda install -c bioconda multiqc
 
+##############################
+# Professional Profile
+##############################
+
+# push to github
+echo "GitHub Repo: https://github.com/FunmilayoJokotoye/hackbio-stage0.sh/blob/main/hackbio_stage0.sh"
+
+# share linkedin video
+echo "GitHub Repo: <your_github_repo_link>"
+echo "LinkedIn Video: <your_linkedin_video_link>"
+
 
