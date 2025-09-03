@@ -106,11 +106,10 @@ conda install -c bioconda multiqc
 # Professional Profile
 ##############################
 
-# push to github
+# GitHub repository link
 echo "GitHub Repo: https://github.com/FunmilayoJokotoye/hackbio-stage0.sh/blob/main/hackbio_stage0.sh"
 
-# share linkedin video
-echo "GitHub Repo: <your_github_repo_link>"
+# LinkedIn video link
 echo "LinkedIn Video: <your_linkedin_video_link>"
 
 
